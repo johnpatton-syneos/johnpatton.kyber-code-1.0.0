@@ -1,5 +1,5 @@
 {
-	"name": "kyber-code",
+	"name": "kyber-code-dark",
 	"displayName": "Kyber Code Theme",
 	"description": "Kyber Code Syntax Color Theme (based off Material Default Theme)",
 	"version": "0.0.1",
@@ -12,9 +12,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Kyber Code",
+				"label": "Kyber Code Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Kyber-Code-Color-Theme.json"
+				"path": "./themes/kyber-code-dark.json"
 			}
 		]
 	},
