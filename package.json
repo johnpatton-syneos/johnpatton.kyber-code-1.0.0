@@ -1,7 +1,7 @@
 {
-	"name": "kyber-code-dark",
-	"displayName": "Kyber Code Dark",
-	"publisher": "John Patton",
+	"name": "kyber-code",
+	"displayName": "Kyber Code",
+	"publisher": "johnpatton",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.45.0"
@@ -12,9 +12,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Kyber Code Dark",
+				"label": "Kyber Code",
 				"uiTheme": "vs-dark",
-				"path": "./themes/kyber-code-dark.json"
+				"path": "./themes/kyber-code.json"
 			}
 		]
 	}
