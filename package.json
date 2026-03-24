@@ -2,7 +2,7 @@
 	"name": "kyber-code-dark",
 	"displayName": "Kyber Code Dark Theme",
 	"description": "Kyber Code Dark Syntax Color Theme (based off Material Default Theme)",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.45.0"
 	},
