@@ -8,10 +8,6 @@
 				"foreground": "#ced6d5"
 			}
 		},
-		
-		/*** USER DEFINED ***/
-		
-		/* ShellScript Files */
 		{
 			"name": "ShellScript",
 			"scope": [
@@ -21,10 +17,6 @@
 				"foreground": "#8c9096"
 			}
 		},
-		
-		
-		
-		/* JavaScript Files */
 		{
 			"name": "JavaScript Punctuation",
 			"scope": [
@@ -115,9 +107,6 @@
 				"foreground": "#FF5370"
 			}
 		},
-		
-		
-		/* JSDoc */
 		{
 			"name": "JSDoc Comments",
 			"scope": [
@@ -178,12 +167,6 @@
 				"fontStyle": "normal"
 			}
 		},
-		
-		
-		
-		
-		
-		/* PHP Files */
 		{
 			"name": "Comment",
 			"scope": [
@@ -295,11 +278,6 @@
 				"foreground": "#79afa9"
 			}
 		},
-		
-		
-		
-		
-		/* SQL embedded */
 		{
 			"name": "SQL",
 			"scope": [
@@ -329,11 +307,6 @@
 				"foreground": "#009688"
 			}
 		},
-		
-		
-		
-		
-		/* Invalid Characters */
 		{
 			"name": "Invalid",
 			"scope": [
@@ -353,11 +326,6 @@
 				"foreground": "#C792EA"
 			}
 		},
-		
-		
-		
-		
-		/* Punctuation, Operator, Misc */
 		{
 			"name": "PHP Tag",
 			"scope": [
@@ -439,11 +407,6 @@
 				"fontStyle": "italic"
 			}
 		},
-		
-		
-		
-		
-		/* Batch Files */
 		{
 			"name": "Keyword Control Special",
 			"scope": [
@@ -601,9 +564,6 @@
 				"foreground": "#B2CCD6"
 			}
 		},
-		
-		
-		/* CSS */
 		{
 			"name": "CSS Class and Support",
 			"scope": [
@@ -639,10 +599,6 @@
 				"foreground": "#82AAFF"
 			}
 		},
-		
-		
-		
-		/* Markdown/Markup Files */
 		{
 			"name": "Markdown - Plain",
 			"scope": [
@@ -877,14 +833,7 @@
 			"settings": {
 				"foreground": "#C792EA"
 			}
-		},
-		
-		
-		
-		/*** END USER DEFINED ***/
-		
-		
-		
+		},	
 		{
 			"name": "Sub-methods",
 			"scope": [
@@ -936,10 +885,6 @@
 				"fontStyle": "underline"
 			}
 		},
-		
-		
-		
-		/* LOG FILES */
 		{
 			"name": "Log Level - Debug",
 			"scope": [
@@ -976,11 +921,6 @@
 				"foreground": "#CED6D5"
 			}
 		},
-
-		
-		
-		
-		/* JSON */
 		{
 			"name": "JSON Key - Level 0",
 			"scope": [
@@ -1141,8 +1081,7 @@
 		"list.inactiveSelectionBackground": "#00000030",
 		"list.focusBackground": "#EEFFFF20",
 		"list.focusForeground": "#ced6d5",
-		
-		/* Terminal Colors */
+
 		"terminal.ansiBlack": "#0C0C0C",
 		"terminal.ansiBlue": "#2B91AF",
 		"terminal.ansiCyan": "#009688",
@@ -1190,7 +1129,6 @@
 		"peekViewResult.matchHighlightBackground": "#80CBC420",
 		"peekViewEditor.matchHighlightBackground": "#80CBC420",
 		
-		/* Git */
 		"gitDecoration.addedResourceForeground": "#79AD15",
 		"gitDecoration.conflictingResourceForeground": "#e6710a",
 		"gitDecoration.deletedResourceForeground": "#FF537070",
@@ -1226,7 +1164,6 @@
 		"listFilterWidget.noMatchesOutline": "#00000030",
 		"tree.indentGuidesStroke": "#37474F",
 		
-		/* Override Accent Colors */
 		"activityBarBadge.background": "#009688",
 		"activityBar.activeBorder": "#009688",
 		"list.activeSelectionForeground": "#009688",
@@ -1251,23 +1188,17 @@
 		"selection.background": "#00968840",
 		"editorCursor.foreground": "#009688",
 		
-		/* Add Borders */
 		"activityBar.border": "#192227",
 		"panel.border": "#192227",
 		"titleBar.border": "#192227",
 		"sideBar.border": "#192227",
 		"statusBar.border": "#192227",
 		
-		// Other Override Colors
 		"editorBracketMatch.border": "#DDDDDD",
-		/*"editorBracketMatch.background": "#263238",*/
 		"editorBracketMatch.background": "#083D5A",
 		"editorLineNumber.foreground": "#3E4B50",
 		"editor.selectionHighlightBackground": "#083D5A",
-		/*"editor.selectionBackground": "#3D4B56",*/
 		"editor.selectionBackground": "#083D5A",
-		/*"editor.selectionHighlightBorder": "#DDDDDD",*/
 		"editor.wordHighlightBackground": "#064566"
-		/*"editor.wordHighlightBorder": "#DDDDDD"*/
 	}
 }
