@@ -1,7 +1,7 @@
 {
 	"name": "kyber-code-dark",
-	"displayName": "Kyber Code Dark Theme",
-	"description": "Kyber Code Dark Syntax Color Theme (based off Material Default Theme)",
+	"displayName": "Kyber Code Dark",
+	"publisher": "John Patton",
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.45.0"
@@ -17,8 +17,5 @@
 				"path": "./themes/kyber-code-dark.json"
 			}
 		]
-	},
-	"__metadata": {
-		"size": 88569
 	}
 }
